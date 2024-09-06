@@ -1,15 +1,11 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2024-09-03 18:16:04 -0700
+title:  "Noticias del dia!"
+date:   2024-09-04 15:16:04 -0700
 categories: jekyll update
 ---
-Esta pagina es mi primera version de mi `Portal`.
+Esta es mi segunda pagina de mi `Portal`.
 
-ewopoewpo 435345 `retret` 8768768  4fdsfdsf 
-
-
-Jekyll also offers powerful support for code snippets:
 
 {% highlight ruby %}
 
