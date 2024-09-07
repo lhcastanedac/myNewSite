@@ -26,8 +26,11 @@ layout: default
 
   <div class="post-content" itemprop="articleBody">
     {{ content }}
-    
+
     {{ site.text }}
+    
+    {{ site.people["James T Kirk"].bio }}
+
   </div>
 
   {% if site.disqus.shortname %}
