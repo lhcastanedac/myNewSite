@@ -15,4 +15,5 @@ theme: minima
 plugins:
   - jekyll-feed
 
+text: Blah
 
